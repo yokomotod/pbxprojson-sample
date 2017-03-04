@@ -130,7 +130,8 @@
       [
         "SessionsInterfaceController.swift",
         "SessionTableRowController.swift",
-        "SessionExtension.swift"
+        "SessionExtension.swift",
+        "SessionDetailInterfaceController.swift"
       ],
       "ComplicationController.swift",
       "Assets.xcassets",
@@ -308,6 +309,10 @@
                             {
                               "isa" : "PBXBuildFile",
                               "fileRef" : "SessionTableRowController.swift"
+                            },
+                            {
+                              "isa" : "PBXBuildFile",
+                              "fileRef" : "SessionDetailInterfaceController.swift"
                             },
                             {
                               "isa" : "PBXBuildFile",
@@ -1209,6 +1214,10 @@
                             {
                               "isa" : "PBXBuildFile",
                               "fileRef" : "SessionTableRowController.swift"
+                            },
+                            {
+                              "isa" : "PBXBuildFile",
+                              "fileRef" : "SessionDetailInterfaceController.swift"
                             },
                             {
                               "isa" : "PBXBuildFile",
@@ -2120,6 +2129,10 @@
                         },
                         {
                           "isa" : "PBXBuildFile",
+                          "fileRef" : "SessionDetailInterfaceController.swift"
+                        },
+                        {
+                          "isa" : "PBXBuildFile",
                           "fileRef" : "ExtensionDelegate.swift"
                         },
                         {
@@ -3005,6 +3018,10 @@
                               {
                                 "isa" : "PBXBuildFile",
                                 "fileRef" : "SessionTableRowController.swift"
+                              },
+                              {
+                                "isa" : "PBXBuildFile",
+                                "fileRef" : "SessionDetailInterfaceController.swift"
                               },
                               {
                                 "isa" : "PBXBuildFile",
@@ -3962,6 +3979,10 @@
                               },
                               {
                                 "isa" : "PBXBuildFile",
+                                "fileRef" : "SessionDetailInterfaceController.swift"
+                              },
+                              {
+                                "isa" : "PBXBuildFile",
                                 "fileRef" : "ExtensionDelegate.swift"
                               },
                               {
@@ -4892,6 +4913,10 @@
                   },
                   {
                     "isa" : "PBXBuildFile",
+                    "fileRef" : "SessionDetailInterfaceController.swift"
+                  },
+                  {
+                    "isa" : "PBXBuildFile",
                     "fileRef" : "ExtensionDelegate.swift"
                   },
                   {
@@ -5155,6 +5180,10 @@
             {
               "isa" : "PBXBuildFile",
               "fileRef" : "SessionTableRowController.swift"
+            },
+            {
+              "isa" : "PBXBuildFile",
+              "fileRef" : "SessionDetailInterfaceController.swift"
             },
             {
               "isa" : "PBXBuildFile",
